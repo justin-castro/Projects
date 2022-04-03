@@ -1,10 +1,8 @@
-
 ## Table of contents
 
 - [Overview](#overview)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
   - [Built with](#built-with)
   - [Continued development](#continued-development)
 - [Author](#author)
@@ -12,7 +10,7 @@
 
 ## Overview
 
-This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H).  
+This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H).
 
 ### Screenshot
 
