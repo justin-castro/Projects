@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/QR-Code-Card/static/css/main.7324d88e.css",
+    "main.js": "/QR-Code-Card/static/js/main.43932783.js",
+    "index.html": "/QR-Code-Card/index.html",
+    "main.7324d88e.css.map": "/QR-Code-Card/static/css/main.7324d88e.css.map",
+    "main.43932783.js.map": "/QR-Code-Card/static/js/main.43932783.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7324d88e.css",
+    "static/js/main.43932783.js"
+  ]
+}
